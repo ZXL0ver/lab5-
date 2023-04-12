@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.Form1.resources
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.Properties.Resources.resources
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Buider\Buider\bin\Debug\Buider.exe.config
+D:\HomeWork\Projects\Buider\Buider\bin\Debug\Buider.exe
+D:\HomeWork\Projects\Buider\Buider\bin\Debug\Buider.pdb
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.exe
+D:\HomeWork\Projects\Buider\Buider\obj\Debug\Buider.pdb
